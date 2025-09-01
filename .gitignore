@@ -1,0 +1,6 @@
+__pycache__/
+*.csv
+.vscode/
+
+# The datasets used in the program, duh!
+Data/
